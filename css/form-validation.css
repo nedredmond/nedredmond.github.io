@@ -1,0 +1,13 @@
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+body {
+    height: auto;
+}
+
+footer {
+    padding-top: 3em;
+}
